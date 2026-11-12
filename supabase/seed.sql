@@ -1,0 +1,2 @@
+-- Production databases start empty.
+-- Do not insert sample students, prediction events, or backdated metrics.

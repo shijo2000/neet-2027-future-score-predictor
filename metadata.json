@@ -1,0 +1,6 @@
+{
+  "name": "NEET 2027 Future Score Predictor",
+  "description": "Free, viral NEET 2027 score challenge & MBBS admission guidance portal for medical aspirants across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
